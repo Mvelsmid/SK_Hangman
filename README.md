@@ -3,3 +3,6 @@
   - upravená grafika
   - moznost zobrazit hadane slovo
   - moznost vlozit vlastne slovo
+
+Autor: Dan Wagoner
+Modifikacia: M. Velsmid

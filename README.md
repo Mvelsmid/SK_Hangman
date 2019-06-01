@@ -4,5 +4,5 @@
   - moznost zobrazit hadane slovo
   - moznost vlozit vlastne slovo
 
-Autor: Dan Wagoner
-Modifikacia: M. Velsmid
+# Autor: Dan Wagoner
+# Modifikacia: M. Velsmid
